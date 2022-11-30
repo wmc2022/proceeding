@@ -1,1 +1,1 @@
-# Proceeding of WMC 2022
+# Proceedings of WMC 2022
